@@ -8,4 +8,8 @@ Huawei Competition Practice for Cloud Computing, A.I, Storage, BigData,etc.
 -------------------------------------------------------------------------------
 
 
-
+mkdir jayx007
+ls
+cd jayx007
+ls
+history
